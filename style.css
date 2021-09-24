@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(224, 247, 247);
+}
+
+.jumbotron{
+    background-color: rgb(144, 240, 240);
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 15px;
+}
